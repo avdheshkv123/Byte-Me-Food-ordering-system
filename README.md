@@ -28,8 +28,6 @@
 * JUnit testing for verifying the functionalities and system components
 * Test cases for order management, menu updates, and user interactions
 
-## Installation
-
 ### Prerequisites
 To use this system, you'll need the following:
 * Java 8 or higher
