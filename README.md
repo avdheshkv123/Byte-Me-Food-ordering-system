@@ -1,33 +1,37 @@
-# Byte-Me-Food-ordering-system
+# Byte Me! - Food Ordering System
 
-Byte Me! is a Java-based food ordering system designed to streamline the ordering process in a college canteen. It provides students with an intuitive interface to browse the menu, place orders, and track deliveries while enabling canteen staff to manage menu items and process orders efficiently.
+**Byte Me!** is a command-line interface (CLI) and GUI-based food ordering system designed for college canteens. It allows students to browse the canteen menu, place orders, track delivery, and maintain order histories. Canteen staff can manage menu items and process orders efficiently. The system includes a JavaFX-based GUI, JUnit testing for verification, and separate sections for admins and customers.
 
-# Features
-1. Customer Features
-**Browse Menu**: View the canteen menu with a user-friendly GUI.
+## Features
 
-**Place Orders**: Seamlessly select and confirm food orders.
+### Customer Features
+* Browse the canteen menu with a graphical interface (GUI)
+* Place orders via CLI or GUI
+* Track delivery status
+* View and maintain order history
+* Cancel orders from order history
 
-**Order Tracking**: Keep track of order status and delivery progress.
+### Admin Features
+* Manage menu items (CRUD operations)
+  * Add new menu items
+  * Remove existing menu items
+  * Edit menu items
+* Process customer orders
+* Manage order history
 
-**Order History**: Maintain a record of previous orders with options to cancel.
+### GUI Features
+* JavaFX interface for displaying the menu
+* Interactive buttons for placing orders and navigating
+* Dynamic display of order history and current orders
 
-2. Admin Features
-**Menu Management**: Add, update, or remove menu items.
+### Testing
+* JUnit testing for verifying the functionalities and system components
+* Test cases for order management, menu updates, and user interactions
 
-**Order Management**: Process and update customer orders efficiently.
+## Installation
 
---- Additional Features
-**JUnit Testing**: Comprehensive test coverage to ensure system reliability.
-
-**GUI Integration**: Visual representation of the menu for enhanced usability.
-
-**CLI Operations**: Command-line interface for managing orders and administrative tasks.
-
--> Technologies Used
-Programming Language: Java
-
-GUI Framework: Java FX (for menu browsing)
-
-Testing Framework: JUnit
-
+### Prerequisites
+To use this system, you'll need the following:
+* Java 8 or higher
+* JavaFX SDK (for GUI functionality)
+* JUnit for testing
