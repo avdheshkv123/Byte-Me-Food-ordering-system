@@ -1,6 +1,6 @@
 # Byte-Me-Food-ordering-system
 
-Byte Me! is a Java-based food ordering system designed to streamline the ordering process in a college canteen. It provides students with an intuitive interface to browse the menu, place orders, and track deliveries while enabling canteen staff to efficiently manage menu items and process orders.
+Byte Me! is a Java-based food ordering system designed to streamline the ordering process in a college canteen. It provides students with an intuitive interface to browse the menu, place orders, and track deliveries while enabling canteen staff to manage menu items and process orders efficiently.
 
 # Features
 1. Customer Features
